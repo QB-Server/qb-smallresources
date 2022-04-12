@@ -16,12 +16,17 @@ ConsumeablesEat = {
     ["tosti"] = math.random(40, 50),
     ["twerks_candy"] = math.random(35, 54),
     ["snikkel_candy"] = math.random(40, 50),
+    ["burger"] = math.random(40, 50),
+    ["chips"] = math.random(35, 45),
+    ["pizza"] = math.random(40, 50),
 }
 
 ConsumeablesDrink = {
     ["water_bottle"] = math.random(35, 54),
     ["kurkakola"] = math.random(35, 54),
     ["coffee"] = math.random(40, 50),
+    ["redbull"] = math.random(25, 35),
+    ["gatorade"] = math.random(30, 45),
 }
 
 ConsumeablesAlcohol = {
