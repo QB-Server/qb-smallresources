@@ -19,6 +19,13 @@ ConsumeablesEat = {
     ["burger"] = math.random(40, 50),
     ["chips"] = math.random(35, 45),
     ["pizza"] = math.random(40, 50),
+    ["sushirolls"] = math.random(20, 32),
+    ["cookie"] = math.random(5, 10),
+    ["muffin"] = math.random(5, 10),
+    ["donut"] = math.random(8, 26), 
+    ["icecream"] = math.random(5, 12),
+    ["cupcake"] = math.random(7, 18),
+    ["ramen"] = math.random(3, 15),
 }
 
 ConsumeablesDrink = {
@@ -33,6 +40,15 @@ ConsumeablesAlcohol = {
     ["whiskey"] = math.random(20, 30),
     ["beer"] = math.random(30, 40),
     ["vodka"] = math.random(20, 40),
+    ["sprite"] = math.random(35, 54),
+    ["pepsi"] = math.random(35, 54),
+    ["mtndew"] = math.random(35, 54),
+    ["lemonade"] = math.random(35, 54),
+    ["pinklemonade"] = math.random(35, 54),
+    ["icedtea"] = math.random(35, 54),
+    ["milk"] = math.random(35, 54),
+    ["fanta"] = math.random(35, 54),
+    ["drpepper"] = math.random(35, 54),
 }
 
 Config.BlacklistedScenarios = {
